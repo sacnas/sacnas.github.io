@@ -1,0 +1,144 @@
+.navbar-default
+{
+  background-color:#1f1f14;
+  background-image:none;
+  background-repeat: no-repeat;
+}
+
+body
+{
+   background-color:#1f1f14;
+}
+
+.navbar .nav> li > a 
+{
+  color: white;
+}
+
+.navbar-brand
+{
+  padding-top:10px;
+}
+.brand-image
+{
+  height:40px;
+  padding-top:5px;
+}
+
+.carousel-control.left, .carousel-control.right {
+    background-color:#1f1f14;
+    background-image: none;
+}
+
+#SACNAS_Heading
+{
+  font-family:sans-serif;
+  text-align:center; 
+  margin: auto;
+  color:white; 
+  letter-spacing: 60px;
+}
+
+#acro 
+{
+  letter-spacing:10 px;
+  text-align: center;
+}
+
+div #missionState, h3, p
+  {
+    width:60%;
+    text-align:left;
+    color:#738c73;
+    margin: auto;
+  }
+
+blockquote
+{
+  width:60%;
+  text-align:left;
+  color:#738c73;
+  margin:auto;
+  margin-bottom: 10px;
+}
+
+body p
+{
+  margin:auto;
+  width:60%;
+  text-align:left;
+  margin-bottom:50px;
+}
+
+h1#memberHeading 
+{
+  color:white;
+  text-align:center;
+  margin: 0 auto 10px auto;
+  letter-spacing:30px;
+}
+
+#Nestor, #Robert, #Nathaniel, 
+{
+  display:block;
+  margin:auto;
+  height:auto;
+  width:400px;
+}
+
+.member
+{
+  margin-top:10px;
+  margin-bottom: 10px;
+}
+.member p
+{
+  margin:2px auto 3px auto;
+  text-align: left;
+}
+
+img#face, img#insta, img#tweet
+{
+  display: block;
+  height:auto;
+  width:200px;
+  margin: 35px auto 35px auto; 
+}
+
+#snap
+{
+  display:block;
+  margin: 75px auto 25px auto;  
+}
+
+@media screen and (max-width:400px)
+{
+  #SACNAS_Heading
+  {
+    letter-spacing: 30px;
+  }
+  
+  #Nestor, #Robert, #Nathaniel
+  {
+    height:auto;
+    width:200px;
+  }
+  
+  h1#memberHeading
+  {
+    letter-spacing:15px;  
+  }
+
+    img#face, img#insta, img#tweet
+  {
+    display:block;
+    height:auto;
+    width: 100px;
+    margin: 40px auto 0 40px;
+  }
+
+    
+  }
+
+
+
