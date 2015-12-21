@@ -78,7 +78,7 @@ h1#memberHeading
   letter-spacing:30px;
 }
 
-#Nestor, #Robert, #Nathaniel, 
+#Nestor, #Robert, #Nathaniel 
 {
   display:block;
   margin:auto;
@@ -113,32 +113,30 @@ img#face, img#insta, img#tweet
 
 @media screen and (max-width:400px)
 {
-  #SACNAS_Heading
-  {
-    letter-spacing: 30px;
-  }
-  
-  #Nestor, #Robert, #Nathaniel
-  {
-    height:auto;
-    width:200px;
-  }
-  
-  h1#memberHeading
-  {
-    letter-spacing:15px;  
-  }
-
-    img#face, img#insta, img#tweet
-  {
-    display:block;
-    height:auto;
-    width: 100px;
-    margin: 40px auto 0 40px;
-  }
-
+      #SACNAS_Heading 
+      {
+        letter-spacing: 30px;
+      }
+      
+      #Nestor, #Robert, #Nathaniel
+      {
+        height:auto;
+        width:200px;
+      }
+      
+      h1#memberHeading
+      {
+        letter-spacing:15px;  
+      }
     
-  }
+        img#face, img#insta, img#tweet
+      {
+        display:block;
+        height:auto;
+        width: 100px;
+        margin: 40px auto 0 40px;
+      }
+}
 
 
 
