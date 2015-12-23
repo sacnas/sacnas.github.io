@@ -78,6 +78,11 @@ h1#memberHeading
   letter-spacing:30px;
 }
 
+#name, #rank, #desc
+{
+  color: white;
+}
+
 #Nestor, #Robert, #Nathaniel 
 {
   display:block;
