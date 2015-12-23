@@ -83,7 +83,7 @@ h1#memberHeading
   color: white;
 }
 
-#Nestor, #Robert, #Nathaniel 
+#Nestor, #Robert, #Nathaniel, #Sarah, #Michelle
 {
   display:block;
   margin:auto;
@@ -91,13 +91,6 @@ h1#memberHeading
   width:400px;
 }
 
-#Sarah
-{
-  display:block;
-  margin:auto;
-  height:auto;
-  width:400px;
-}
 
 .member
 {
@@ -131,7 +124,7 @@ img#face, img#insta, img#tweet
         letter-spacing: 30px;
       }
       
-      #Nestor, #Robert, #Nathaniel
+      #Nestor, #Robert, #Nathaniel, #Sarah, #Michelle
       {
         height:auto;
         width:200px;
